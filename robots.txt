@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jose-puerta.vercel.app/sitemap.xml
+Sitemap: https://pagina-web-desplegada-jos-puerta.vercel.app/sitemap.xml
